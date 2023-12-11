@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:58:10.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tf1vX2v3dkOs_ECWVMG4" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:55:53.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g6YoUW5MuskOR2J4vOVz" version="22.1.5" type="github" pages="2">
   <diagram name="コンテキスト図" id="JAHu5KNN9oW4rOjXCWvK">
     <mxGraphModel dx="714" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GbLFoCu9oLsr941b3qkX" name="ユースケース図">
-    <mxGraphModel dx="752" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           <mxGeometry x="550" y="222" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff2600;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="230" y="90" width="260" height="380" as="geometry" />
+          <mxGeometry x="230" y="90" width="260" height="490" as="geometry" />
         </mxCell>
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-2" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 19px;&quot;&gt;資産管理アプリ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="90" width="140" height="30" as="geometry" />
@@ -72,14 +72,14 @@
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;日々の資産変化を入力&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="232" width="173" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9_uoFHPFP4xmUgBM8nVg-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;職業や家族構成、&lt;br&gt;毎月の消費額を入力&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="283" width="173" height="55" as="geometry" />
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;職業と役職を入力&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="283" width="173" height="37" as="geometry" />
         </mxCell>
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;資産状況を確認&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="352" width="173" height="35" as="geometry" />
+          <mxGeometry x="273.5" y="463" width="173" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;現資産における将来必要資産を達成するためのアドバイスを確認&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="400" width="173" height="60" as="geometry" />
+          <mxGeometry x="273.5" y="504" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_uoFHPFP4xmUgBM8nVg-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_e_Xq6__7Vt7IrujU-g-1" target="9_uoFHPFP4xmUgBM8nVg-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -151,6 +151,132 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="457" y="380" as="sourcePoint" />
             <mxPoint x="560" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-23" value="日本円で入力&lt;br&gt;現金や現金換算が容易な資産(株、不動産、為替)を入力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-23" target="9_uoFHPFP4xmUgBM8nVg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="252" as="sourcePoint" />
+            <mxPoint x="284" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-25" value="日本円で入力&lt;br&gt;老後資金や子供の学費など" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-25" target="9_uoFHPFP4xmUgBM8nVg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="262" as="sourcePoint" />
+            <mxPoint x="780" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-27" value="投資をしている場合の日々の損益を入力&lt;br&gt;細かい日々の出費は入力を求めない" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-27" target="9_uoFHPFP4xmUgBM8nVg-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="319" as="sourcePoint" />
+            <mxPoint x="317" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-29" value="職業は、製造業、金融業、自営業など予め登録された中から選択&lt;br&gt;役職は、一般職、係長、課長、次長、部長、役員、社長等予め登録された中から選択" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="137" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-29" target="9_uoFHPFP4xmUgBM8nVg-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="329" as="sourcePoint" />
+            <mxPoint x="390" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;家族構成を入力&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="375" width="173" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="9_uoFHPFP4xmUgBM8nVg-31" source="0_e_Xq6__7Vt7IrujU-g-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="304" as="sourcePoint" />
+            <mxPoint x="284" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-31" target="0_e_Xq6__7Vt7IrujU-g-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="324" as="sourcePoint" />
+            <mxPoint x="550" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;毎月の凡その&lt;br&gt;消費額を入力&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="417" width="173" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="9_uoFHPFP4xmUgBM8nVg-34" source="0_e_Xq6__7Vt7IrujU-g-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="281" as="sourcePoint" />
+            <mxPoint x="284" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-34" target="0_e_Xq6__7Vt7IrujU-g-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="363" as="sourcePoint" />
+            <mxPoint x="550" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;年収を入力と&lt;br&gt;年収増加モデルを選択&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="328" width="173" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="9_uoFHPFP4xmUgBM8nVg-37" source="0_e_Xq6__7Vt7IrujU-g-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="287" as="sourcePoint" />
+            <mxPoint x="284" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-37" target="0_e_Xq6__7Vt7IrujU-g-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="307" as="sourcePoint" />
+            <mxPoint x="550" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-41" value="現在の年収を日本円で入力(収入を自動算出する)&lt;br&gt;予め用意しておいた将来の年収増加モデルをユーザーに選択してもらう" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="367" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-41" target="9_uoFHPFP4xmUgBM8nVg-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="536" as="sourcePoint" />
+            <mxPoint x="316.75" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-45" value="毎月の凡その消費額を入力&lt;br&gt;(食費、光熱費などのように細分化はしない⇒ユーザーが煩雑と感じる可能性があるため)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="436" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-45" target="9_uoFHPFP4xmUgBM8nVg-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="614" as="sourcePoint" />
+            <mxPoint x="317" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-47" value="現在の家族構成&lt;br&gt;もしくは将来の家族構成を入力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="368" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-47" target="9_uoFHPFP4xmUgBM8nVg-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="390" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-51" value="株式などの資産状況は日々の資産変化入力から毎日変化させてグラフ化して表示&lt;br&gt;現在の総資産(現金収入、消費なども合わせる)については、年もしくは月単位で年収と毎月の消費額から計算し、表示する&lt;br&gt;将来必要な資産と現在の資産の差分も計算し、また、将来の資産到達額も入力された情報から算出し、表示する" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="435" width="510" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-51" target="9_uoFHPFP4xmUgBM8nVg-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="627" as="sourcePoint" />
+            <mxPoint x="403" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-53" value="将来の資産到達額と将来必要な資産との差異がある場合、&lt;br&gt;日々の資産変化や年収と消費額から、好適なアドバイスを表示する&lt;br&gt;アドバイスは、各指標でクラスタリングを行い、ユーザーがどこに分類されるかを入力されたデータより判断し、定型文のアドバイスから選択する形にする" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="518" width="510" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9_uoFHPFP4xmUgBM8nVg-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;dashed=1;strokeColor=#FF0000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_uoFHPFP4xmUgBM8nVg-53" target="9_uoFHPFP4xmUgBM8nVg-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="710" as="sourcePoint" />
+            <mxPoint x="403" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
