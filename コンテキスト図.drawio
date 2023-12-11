@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:28:49.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HCv-Qj_TyR1QqA44JycH" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:30:27.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="E7b734iJuQE0-5WHJlou" version="22.1.5" type="github" pages="2">
   <diagram name="コンテキスト図" id="JAHu5KNN9oW4rOjXCWvK">
     <mxGraphModel dx="714" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,15 +10,6 @@
         <mxCell id="FfyrciRABTonSbXyu3Ht-5" value="Excel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-6" value="GitHub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-7" value="Slack" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-8" value="エクセル" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FfyrciRABTonSbXyu3Ht-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FfyrciRABTonSbXyu3Ht-1" target="FfyrciRABTonSbXyu3Ht-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="440" as="sourcePoint" />
@@ -28,35 +19,8 @@
         <mxCell id="FfyrciRABTonSbXyu3Ht-11" value="・資産を入力&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・グラフを表示&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff2600;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="FfyrciRABTonSbXyu3Ht-1" target="FfyrciRABTonSbXyu3Ht-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="190" as="sourcePoint" />
-            <mxPoint x="300" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-18" value="PRを投げる" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff2600;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="180" y="175" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FfyrciRABTonSbXyu3Ht-1" target="FfyrciRABTonSbXyu3Ht-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="210" as="sourcePoint" />
-            <mxPoint x="320" y="205" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-22" value="質問・相談" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff2600;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="190" y="250" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FfyrciRABTonSbXyu3Ht-1" target="FfyrciRABTonSbXyu3Ht-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="217.5" y="335" as="sourcePoint" />
-            <mxPoint x="320" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FfyrciRABTonSbXyu3Ht-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff2600;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="300" y="270" width="140" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="FfyrciRABTonSbXyu3Ht-29" value="タスク管理・完了登録" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff2600;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="120" y="330" width="160" height="30" as="geometry" />
+          <mxGeometry x="300" y="26" width="140" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
