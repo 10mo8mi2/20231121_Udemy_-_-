@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-24T00:24:31.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RNJ3BF_0wcwf02nlt8Ka" version="22.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-24T02:51:41.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AARzhZ0CZi-BLfkTQsDf" version="22.1.8" type="github" pages="5">
   <diagram name="コンテキスト図" id="JAHu5KNN9oW4rOjXCWvK">
     <mxGraphModel dx="666" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -582,8 +582,14 @@
         <mxCell id="cG3R0zXO-aIg-QZPBTqc-4" value="資産状況の表示方法を変更して、表示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7wz2C6D3iNSJ97BL8B8I-1">
           <mxGeometry x="449.25" y="350" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rhI_mD5X-HfIE4XBEHUT-1" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=8;endSize=8;" edge="1" parent="7wz2C6D3iNSJ97BL8B8I-1" source="cG3R0zXO-aIg-QZPBTqc-6" target="rhI_mD5X-HfIE4XBEHUT-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cG3R0zXO-aIg-QZPBTqc-6" value="表示変更された資産状況を確認" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7wz2C6D3iNSJ97BL8B8I-1">
           <mxGeometry x="30.25" y="450" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhI_mD5X-HfIE4XBEHUT-0" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#1A1A1A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="7wz2C6D3iNSJ97BL8B8I-1">
+          <mxGeometry x="110.25" y="554.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
